@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "Loading...",
-    "\"Hello World!\""
+    "\"Iam a profational web developer\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -551,4 +551,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
